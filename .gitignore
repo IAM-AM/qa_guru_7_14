@@ -1,3 +1,8 @@
+allure-results/
+notifications/info.txt
+notifications/allure-report
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
